@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/openDefault-10.10.0.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45469564a8af1c250395ec0cedecb7b/jetified-openDefault-10.10.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45469564a8af1c250395ec0cedecb7b/jetified-openDefault-10.10.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a45469564a8af1c250395ec0cedecb7b/jetified-openDefault-10.10.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

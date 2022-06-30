@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/contacts-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d320d3e064f9ec08405b958c6c8be1c/jetified-contacts-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8013600418cb100e2145280b1b5d8fc5/jetified-contacts-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebed108ba9ef7e4ee40dce2c5f03785c/jetified-contacts-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebed108ba9ef7e4ee40dce2c5f03785c/jetified-contacts-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ebed108ba9ef7e4ee40dce2c5f03785c/jetified-contacts-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/share-sina-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2982d89701ed2d52466a362b73041cb9/jetified-share-sina-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2982d89701ed2d52466a362b73041cb9/jetified-share-sina-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2982d89701ed2d52466a362b73041cb9/jetified-share-sina-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

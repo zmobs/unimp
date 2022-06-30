@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/Bluetooth-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ddb91f9f30109713d470ff43d3926e0/jetified-Bluetooth-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce5fb2d613323a892de34fe839794bd5/jetified-Bluetooth-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36aa175f2efed412fcb0463f24871d0c/jetified-Bluetooth-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36aa175f2efed412fcb0463f24871d0c/jetified-Bluetooth-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36aa175f2efed412fcb0463f24871d0c/jetified-Bluetooth-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

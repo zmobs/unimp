@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/base_oaid_sdk.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/447dc899e9fb7b805e05146221b25b5e/jetified-base_oaid_sdk/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d1683ab9c4d218265ca7b078ea42a74/jetified-base_oaid_sdk/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf979208ab4aedf3e63a70877ff8d9b7/jetified-base_oaid_sdk/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf979208ab4aedf3e63a70877ff8d9b7/jetified-base_oaid_sdk/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bf979208ab4aedf3e63a70877ff8d9b7/jetified-base_oaid_sdk/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

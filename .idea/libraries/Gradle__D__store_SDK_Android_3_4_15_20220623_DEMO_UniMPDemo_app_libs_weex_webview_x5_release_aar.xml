@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_webview-x5-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46e0d33280aaeee0c2094026bd598a76/jetified-weex_webview-x5-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a629280538cbd675aa0bfdfb5930670a/jetified-weex_webview-x5-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f3c3d405029d2f9a60d47ee0101ad86/jetified-weex_webview-x5-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f3c3d405029d2f9a60d47ee0101ad86/jetified-weex_webview-x5-release/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f3c3d405029d2f9a60d47ee0101ad86/jetified-weex_webview-x5-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
