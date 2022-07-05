@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.library'
 }
+apply plugin: 'com.github.dcendents.android-maven'
 rootProject.allprojects {
     repositories {
         google()
