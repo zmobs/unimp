@@ -52,7 +52,10 @@ dependencies {
     implementation fileTree(include: ['*.jar'], dir: 'libs')
     implementation fileTree(include: ['*.aar'], dir: 'libs')
 
-    implementation fileTree(include: ['*.aar'], dir: '../unimp/libs')
+//    implementation fileTree(include: ['*.aar'], dir: '../unimp/libs')
+
+
+    implementation 'com.github.zmobs:unimp:0.0.1'
 
     //必须添加的依赖
     implementation "androidx.recyclerview:recyclerview:1.0.0"
