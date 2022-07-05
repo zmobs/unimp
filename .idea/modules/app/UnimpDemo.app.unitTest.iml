@@ -27,13 +27,14 @@
     <content url="file://$MODULE_DIR$/../../../app/src/testDebug" />
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="UnimpDemo.unimp.main" scope="TEST" />
+    <orderEntry type="module" module-name="UnimpDemo.KotlinModule.main" scope="TEST" />
     <orderEntry type="module" module-name="UnimpDemo.TestModule.main" scope="TEST" />
     <orderEntry type="module" module-name="UnimpDemo.TestComponent.main" scope="TEST" />
-    <orderEntry type="module" module-name="UnimpDemo.unimp.main" scope="TEST" />
     <orderEntry type="module" module-name="UnimpDemo.app.main" scope="TEST" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/qq_mta-sdk-1.6.2.jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/qq_open_sdk_3.5.2.152.jar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/utdid4all-1.5.2.1-proguard.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/qq_mta-sdk-1.6.2.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/qq_open_sdk_3.5.2.152.jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/utdid4all-1.5.2.1-proguard.jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.3.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
@@ -41,68 +42,82 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.alibaba:fastjson:1.2.66" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:disklrucache:4.9.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:annotations:4.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.6.10" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout-solver:2.0.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:3.7.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:1.12.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/alipaysdk-noutdid-15.8.03.210428205839.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/android-gif-drawable-release@1.2.23.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/audio-mp3aac-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/base_oaid_sdk.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/Bluetooth-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/contacts-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/debug-server-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/fingerprint-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/geolocation-amap-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/iBeacon-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/map-amap-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/media-livepusher-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/media-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/messaging-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/oauth-facebook-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/oauth-google-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/oauth-qq-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/oauth-sina-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/oauth-weixin-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/openDefault-10.10.0.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/payment-weixin-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/share-qq-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/share-sina-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/share-weixin-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/speech-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/speech_baidu-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/sqlite-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/webview-x5-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/wechat-sdk-android-without-mta-6.7.9.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_amap-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_gcanvas-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_livepusher-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_videoplayer-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/weex_webview-x5-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/alipaysdk-noutdid-15.8.03.210428205839.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/android-gif-drawable-release@1.2.23.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/audio-mp3aac-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/base_oaid_sdk.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/Bluetooth-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/contacts-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/debug-server-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/fingerprint-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/geolocation-amap-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/iBeacon-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/map-amap-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/media-livepusher-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/media-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/messaging-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/oauth-facebook-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/oauth-google-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/oauth-qq-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/oauth-sina-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/oauth-weixin-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/openDefault-10.10.0.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/payment-weixin-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/share-qq-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/share-sina-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/share-weixin-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/speech-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/speech_baidu-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/sqlite-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/webview-x5-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/wechat-sdk-android-without-mta-6.7.9.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/weex_amap-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/weex_gcanvas-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/weex_livepusher-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/weex_videoplayer-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/app/libs/weex_webview-x5-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniapp-v8-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniMPSDK-V2-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.0.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat:1.3.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.3.4@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.media:media:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.dynamicanimation:dynamicanimation:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity:1.2.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.appcompat:appcompat-resources:1.3.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.1.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:gifdecoder:4.9.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />

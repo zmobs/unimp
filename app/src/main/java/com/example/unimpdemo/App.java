@@ -16,6 +16,7 @@ import io.dcloud.feature.sdk.DCSDKInitConfig;
 import io.dcloud.feature.sdk.DCUniMPSDK;
 import io.dcloud.feature.sdk.Interface.IDCUniMPPreInitCallback;
 import io.dcloud.feature.sdk.MenuActionSheetItem;
+import io.dcloud.kotlinmodule.WifiModule;
 import io.dcloud.uniplugin.TestModule;
 import io.dcloud.uniplugin.TestText;
 
@@ -25,6 +26,7 @@ public class App extends Application {
         super.onCreate();
         try {
             WXSDKEngine.registerModule("TestModule", TestModule.class);
+            WXSDKEngine.registerModule("WifiModule", WifiModule.class);
             WXSDKEngine.registerComponent("myText", TestText.class);
         } catch (WXException e) {
             e.printStackTrace();

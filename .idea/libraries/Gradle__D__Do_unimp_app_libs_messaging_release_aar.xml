@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/messaging-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f8a775a334a1968c09f6d0f7582f142c/jetified-messaging-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb77cbae7129b56c43d586c1cd6fb1aa/jetified-messaging-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb77cbae7129b56c43d586c1cd6fb1aa/jetified-messaging-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/eb77cbae7129b56c43d586c1cd6fb1aa/jetified-messaging-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

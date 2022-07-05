@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/oauth-google-release.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1390ffdcedfc3b696e0546a227c6beb3/jetified-oauth-google-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1390ffdcedfc3b696e0546a227c6beb3/jetified-oauth-google-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1390ffdcedfc3b696e0546a227c6beb3/jetified-oauth-google-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

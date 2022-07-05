@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/sqlite-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b7fc6a3a3186fad614153a75f0a1b8c2/jetified-sqlite-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8855e585b4b40dc61b020f8d07183ef6/jetified-sqlite-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8855e585b4b40dc61b020f8d07183ef6/jetified-sqlite-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8855e585b4b40dc61b020f8d07183ef6/jetified-sqlite-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

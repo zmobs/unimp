@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/media-livepusher-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e929c4d7d9b76a5585a933c185827ff4/jetified-media-livepusher-release/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e929c4d7d9b76a5585a933c185827ff4/jetified-media-livepusher-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e929c4d7d9b76a5585a933c185827ff4/jetified-media-livepusher-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

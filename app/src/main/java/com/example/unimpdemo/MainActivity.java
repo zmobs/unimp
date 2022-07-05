@@ -82,7 +82,7 @@ public class MainActivity extends Activity {
                 try {
                     UniMPOpenConfiguration uniMPOpenConfiguration = new UniMPOpenConfiguration();
                     uniMPOpenConfiguration.splashClass = MySplashView.class;
-                    IUniMP uniMP = DCUniMPSDK.getInstance().openUniMP(mContext,"__UNI__D9DF95B", uniMPOpenConfiguration);
+                    IUniMP uniMP = DCUniMPSDK.getInstance().openUniMP(mContext,"__UNI__17D468D", uniMPOpenConfiguration);
                     mUniMPCaches.put(uniMP.getAppid(), uniMP);
                 } catch (Exception e) {
                     e.printStackTrace();

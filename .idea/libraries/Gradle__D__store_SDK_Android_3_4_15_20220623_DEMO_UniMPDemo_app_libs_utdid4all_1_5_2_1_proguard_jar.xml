@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: D./store/SDK-Android@3.4.15-20220623/DEMO/UniMPDemo/app/libs/utdid4all-1.5.2.1-proguard.jar">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/libs/utdid4all-1.5.2.1-proguard.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

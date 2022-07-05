@@ -4,3 +4,4 @@ include ':TestComponent'
 rootProject.name='UnimpDemo'
 
 include ':unimp'
+include ':KotlinModule'

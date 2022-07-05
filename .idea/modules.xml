@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinModule/UnimpDemo.KotlinModule.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.main.iml" />

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/payment-weixin-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef4a3fc14957f4607d8c9609f296cce3/jetified-payment-weixin-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef4a3fc14957f4607d8c9609f296cce3/jetified-payment-weixin-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ef4a3fc14957f4607d8c9609f296cce3/jetified-payment-weixin-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

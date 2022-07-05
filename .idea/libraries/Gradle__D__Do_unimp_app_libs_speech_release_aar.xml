@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: D./Do/unimp/app/libs/speech-release.aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4dfcafa60d2e3d07582de527db4a517a/jetified-speech-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11d96f9441a3f59677b4274ac44954f0/jetified-speech-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11d96f9441a3f59677b4274ac44954f0/jetified-speech-release/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/11d96f9441a3f59677b4274ac44954f0/jetified-speech-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

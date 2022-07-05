@@ -6,9 +6,10 @@
       <root url="file://$USER_HOME$/.gradle/daemon/4.8.1/caches/transforms-2/files-2.1/2f8eab7bba4931a731299ce1cb017329/jetified-animated-webp-2.5.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2f8eab7bba4931a731299ce1cb017329/jetified-animated-webp-2.5.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/227189735390f6aa73c7058df0f240d7/jetified-animated-webp-2.5.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70a96107ca271229e49f462d04ba8a8a/jetified-animated-webp-2.5.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70a96107ca271229e49f462d04ba8a8a/jetified-animated-webp-2.5.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/70a96107ca271229e49f462d04ba8a8a/jetified-animated-webp-2.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36746744d55556b0d8aaf8f51cefb6cd/jetified-animated-webp-2.5.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36746744d55556b0d8aaf8f51cefb6cd/jetified-animated-webp-2.5.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/36746744d55556b0d8aaf8f51cefb6cd/jetified-animated-webp-2.5.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/animated-webp/2.5.0/9a005eaf3480785e372e0e6e9a0ed59843f74fb5/animated-webp-2.5.0-javadoc.jar!/" />
