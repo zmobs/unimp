@@ -132,6 +132,10 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:webpsupport:2.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:animated-webp:2.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/android-gif-drawable-release@1.2.23.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/base_oaid_sdk.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniapp-v8-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniMPSDK-V2-release.aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="UnimpDemo.app.main" />
 </module>

@@ -48,6 +48,11 @@ repositories {
         dirs 'libs'
     }
 }
+
+
+
+
+
 dependencies {
     //导入SDK相关依赖jar、aar
     implementation fileTree(include: ['*.jar'], dir: 'libs')

@@ -34,6 +34,10 @@
     <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="UnimpDemo.unimp.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/android-gif-drawable-release@1.2.23.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/base_oaid_sdk.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniapp-v8-release.aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniMPSDK-V2-release.aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="UnimpDemo.unimp.main" />
 </module>
