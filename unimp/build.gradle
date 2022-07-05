@@ -2,7 +2,7 @@ plugins {
     id 'com.android.library'
 }
 apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.shili'
+group = 'com.github.zmobs'
 rootProject.allprojects {
     repositories {
         google()
