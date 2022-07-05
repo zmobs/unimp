@@ -40,6 +40,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+
 }
 //导入aar需要的配置
 repositories {
@@ -54,8 +55,7 @@ dependencies {
 
 //    implementation fileTree(include: ['*.aar'], dir: '../unimp/libs')
 
-
-    implementation 'com.github.zmobs:unimp:0.0.1'
+//    implementation 'com.github.zmobs:unimp:0.0.1'
 
     //必须添加的依赖
     implementation "androidx.recyclerview:recyclerview:1.0.0"
