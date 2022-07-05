@@ -1,8 +1,8 @@
 apply plugin: 'com.android.application'
 //必须配置
 def mfph = [
-    //包名
-    "apk.applicationId" : "com.example.unimpdemo",
+        //包名
+        "apk.applicationId" : "com.example.unimpdemo",
 ]
 android {
     compileSdkVersion 29
@@ -36,22 +36,11 @@ android {
         //noCompress 'foo', 'bar'
         ignoreAssetsPattern "!.svn:!.git:.*:!CVS:!thumbs.db:!picasa.ini:!*.scc:*~"
     }
-	compileOptions {
+    compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-
 }
-//导入aar需要的配置
-repositories {
-    flatDir {
-        dirs 'libs'
-    }
-}
-
-
-
-
 
 dependencies {
     //导入SDK相关依赖jar、aar
@@ -60,7 +49,7 @@ dependencies {
 
 //    implementation fileTree(include: ['*.aar'], dir: '../unimp/libs')
 
-//    implementation 'com.github.zmobs:unimp:0.0.2'
+//    implementation 'com.github.zmobs:unimp:0.0.1'
 
     //必须添加的依赖
     implementation "androidx.recyclerview:recyclerview:1.0.0"

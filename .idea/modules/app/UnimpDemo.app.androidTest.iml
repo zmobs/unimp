@@ -95,10 +95,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:animated-webp:2.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.github.bumptech.glide:glide:4.9.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.multidex:multidex:2.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/android-gif-drawable-release@1.2.23.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/base_oaid_sdk.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniapp-v8-release.aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: D./Do/unimp/unimp/libs/uniMPSDK-V2-release.aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
@@ -135,6 +131,10 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:memory-type-java:2.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:nativeimagefilters:2.5.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.5.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: :uniapp-v8-release:@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: :uniMPSDK-V2-release:@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: :android-gif-drawable-release@1.2.23:@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: :base_oaid_sdk:@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.facebook.fresco:imagepipeline-base:2.5.0@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="UnimpDemo.app.main" />
