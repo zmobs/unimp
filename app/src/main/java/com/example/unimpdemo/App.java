@@ -2,6 +2,7 @@ package com.example.unimpdemo;
 
 import android.app.Application;
 import android.content.Context;
+import android.media.projection.MediaProjectionManager;
 import android.util.Log;
 
 import androidx.multidex.MultiDex;
@@ -17,6 +18,7 @@ import io.dcloud.feature.sdk.DCUniMPSDK;
 import io.dcloud.feature.sdk.Interface.IDCUniMPPreInitCallback;
 import io.dcloud.feature.sdk.MenuActionSheetItem;
 import io.dcloud.kotlinmodule.WifiModule;
+import io.dcloud.unimp.MPMavenHelper;
 import io.dcloud.uniplugin.TestModule;
 import io.dcloud.uniplugin.TestText;
 
@@ -56,6 +58,7 @@ public class App extends Application {
             }
         });
         //初始化 uni小程序SDK ----end----------
+        System.out.println(MPMavenHelper.getVersion());
     }
 
     @Override
